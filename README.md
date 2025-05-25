@@ -1,6 +1,6 @@
 ### Hi, I'm Neha 👋
 
-I'm a fullstack developer with 5+ years of experience building clean, responsive, and user-friendly web apps.
+I'm a Fullstack developer with 5+ years of experience building clean, responsive, and user-friendly web apps.
 
 ---
 
