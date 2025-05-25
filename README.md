@@ -29,4 +29,4 @@ I'm a Fullstack developer with 5+ years of experience building clean, responsive
 
 ---
 
-⚡ Fun Fact: I debug complex UI issues the way I brew my coffee—strong, focused, and not afraid to go deep until everything flows just right :P
+⚡ Fun Fact: I debug complex UI issues the way I brew my coffee—strong, focused, and not afraid to go deep until everything flows just right.
