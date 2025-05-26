@@ -1,6 +1,5 @@
-💻 Typing...
-> Hi, I'm Neha 👋  
-> I'm a frontend developer with 5+ years of experience building clean, responsive, and user-friendly web apps.
+### Hi, I'm Neha 👋
+I'm a Fullstack developer with 5+ years of experience building clean, responsive, and user-friendly web apps.
 
 ---
 
